@@ -14,6 +14,6 @@ Credits to https://www.kaggle.com/datasets/loganlauton/nba-players-and-team-data
 
 Basic `sk-learn` ML models were trained and fit via `/notebooks/ml.ipynb`.
 
-Results in the form of evaluative metrics (R^2, silhouette score) are in the same notebook.
+Results in the form of evaluative metrics (coefficient of determination, silhouette score) are in the same notebook.
 
 Various scatterplots and supporting visuals can be found in `/visualizations`. They are all explained by the `report.pdf`. 
